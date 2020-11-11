@@ -7,7 +7,7 @@
         x:Class="MvpMaterialBug.Views.MainWindow"
         Icon="/Assets/avalonia-logo.ico"
         ExtendClientAreaToDecorationsHint="True"
-        ExtendClientAreaChromeHints="PreferSystemChrome"
+        ExtendClientAreaChromeHints="NoChrome"
         ExtendClientAreaTitleBarHeightHint="-1">
 
         <TextBlock>Hello</TextBlock>
